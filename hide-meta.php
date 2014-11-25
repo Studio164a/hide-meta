@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:			Hide Meta
- * Plugin URI:			
+ * Plugin URI:			https://github.com/Studio164a/hide-meta
  * Description:			Allows you to hide the meta relating to a specific post or page. Themes have to explicitly add support for the feature.
  * Author:				Studio 164a
  * Author URI:			http://164a.com
